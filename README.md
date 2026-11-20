@@ -2,10 +2,6 @@
 
 A browser-based shop inventory and checkout app based on the supplied Stockroom HTML.
 
-## Run it
-
-Open `index.html` in a modern browser. For camera scanning, browsers require a secure context; run a local server and visit `http://localhost` (for example, `python3 -m http.server 8000`) or deploy it on HTTPS.
-
 ## Features
 
 - Shopkeeper account creation and login screen
